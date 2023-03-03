@@ -4,14 +4,9 @@ export const topicName = "demotopic1";
 export const subscriptionName = "S1";
 
 export const messages = [
-    { body: "LA",
+    { body: "ATL",
       applicationProperties: {
-        userId: 'West'
-      }
-    },
-    { body: "PHI",
-      applicationProperties: {
-        userId: 'John'
+        userId: 'Yang'
       }
     }
 ];
